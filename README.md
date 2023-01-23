@@ -31,5 +31,5 @@ https://gist.github.com/drewlesueur/950187/1e3382cbcd1ef012c68487fbc2e38c8963fc3
 ![изображение](https://user-images.githubusercontent.com/83385888/214000546-3c68f1e1-4845-4180-9e9e-943cd2438eb0.png)
 ![изображение](https://user-images.githubusercontent.com/83385888/214000589-3e6e5b3a-50ad-4283-969f-7464ee64fae1.png)
 
-Время дампинга: ~3-6 минуты (зависит от скорости соединения, ЦП и ОЗУ)
+Время полного парсинга: ~3-6 минуты (зависит от скорости соединения, ЦП и ОЗУ)
 
