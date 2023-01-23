@@ -2,7 +2,7 @@
 Полуасинхронный парсер stalcraft-database
 
 ### Примечание
-Работает посредством HTTP-запросов на github репозиторию "stalcraft-database":  https://github.com/EXBO-Studio/stalcraft-database.<br/>
+Работает посредством HTTP-запросов на github репозиторий "stalcraft-database":  https://github.com/EXBO-Studio/stalcraft-database.<br/>
 Используемые сторонние пакеты: colorama, requests, bs4.<br/>
 Версия Python: ^=3.7<br/>
 
