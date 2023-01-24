@@ -15,14 +15,14 @@ rediscollector.py - переносит содержимое репозитори
 
 Windows:
 1. Установить Python
-2. Установить нужные пакеты при помощи команды в терменале: ```pip install colorama requests bs4```
+2. Установить нужные пакеты при помощи команды в терменале: ```pip install colorama requests bs4 redis```
 3. Поместить файл "filecollector.py", "rediscollector.py" и "misc.py" в одну папку
 4. Запустить нужный вам файл при помощи команды в терминале: ```python <filename.py>```
 
 Linux:
-1. Установить нужные пакеты при помощи команды в терменале: ```pip3 install colorama requests bs4```
+1. Установить нужные пакеты при помощи команды в терменале: ```pip3 install colorama requests bs4 redis```
 2. Поместить файл "main.py" и "misc.py" в одну папку3
-3. Запустить файл "main.py" при помощи команды в терминале: ```python3 main.py```
+3. Запустить файл "main.py" при помощи команды в терминале: ```python <filename.py>```
 
 P.S. Для постоянной работы скрипта используйте утилиту screen:</br>
 https://gist.github.com/drewlesueur/950187/1e3382cbcd1ef012c68487fbc2e38c8963fc3b3c
