@@ -21,8 +21,8 @@ Windows:
 
 Linux:
 1. Установить нужные пакеты при помощи команды в терменале: ```pip3 install colorama requests bs4 redis```
-2. Поместить файл "main.py" и "misc.py" в одну папку3
-3. Запустить файл "main.py" при помощи команды в терминале: ```python <filename.py>```
+2. Поместить файл "filecollector.py", "rediscollector.py" и "misc.py" в одну папку
+3. Запустить нужный вам файл при помощи команды в терминале: ```python <filename.py>```
 
 P.S. Для постоянной работы скрипта используйте утилиту screen:</br>
 https://gist.github.com/drewlesueur/950187/1e3382cbcd1ef012c68487fbc2e38c8963fc3b3c
